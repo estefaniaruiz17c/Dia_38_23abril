@@ -1,7 +1,7 @@
 # Estefanía Ruiz Cuartas
 # Lenguaje de programación: Python
 # Tema: Programación orientada a objetos. Herencia
-# Fuentes de consulta: https://j2logo.com/python/tutorial/programacion-orientada-a-objetos/#poo-atributos-clase-instancia  
+# Fuentes de consulta: https://j2logo.com/python/tutorial/programacion-orientada-a-objetos/#poo-atributos-clase-instancia  https://www.discoduroderoer.es/herencia-python-3-poo/  https://docs.hektorprofe.net/python/herencia-en-la-poo/ejercicios/
 
 # Herencia: La herencia consiste en la creación de clases a partir de otras ya existentes. Tenemos lo que llamamos una clase padre (superclase) y clases hijas (clases derivadas), que heredan los métodos y atributos de su clase padre
 print("Herencia\n")
